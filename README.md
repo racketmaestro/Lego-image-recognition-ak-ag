@@ -4,9 +4,7 @@ This repository contains two main folders of scripts. Firstly, the Computer_file
 
 The database contains a small sample size of images. The models in the models folder were trained with 6000 images spanning across 7 possible categories of lego technic. It achieved 93% testing accuracy from an 80/20 split between training and testing data. Graphs of the accuracy and loss across epochs are shown below. A confusion matrix was also plotted to visualize the performance of the classification algorithm. It depicts the count value of true versus false predictions across each category.
 
-![Unknown-4](https://user-images.githubusercontent.com/91732309/190349741-e3152b15-662a-4ad3-81af-c376dca57012.png)
-
-![Unknown-3](https://user-images.githubusercontent.com/91732309/190349811-04a60457-500a-4449-b3a8-bf473aa51bec.png)
+![Unknown-5](https://user-images.githubusercontent.com/91732309/190358182-58fa5671-263d-490b-8f54-616cb2daf764.png)
 
 More images can be taken by editing the motion_detection_and_image_classification.py script.
 
