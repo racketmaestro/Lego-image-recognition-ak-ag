@@ -6,3 +6,7 @@ The database contains a small sample size of images. The models in the models fo
 
 More images can be taken by editing the motion_detection_and_image_classification.py script.
 
+The motion detection portion of the RaspberryPi script was adapted from pyimagesearch's project 'Building a Raspberry Pi security camera with OpenCV' and can be found at
+https://pyimagesearch.com/2019/03/25/building-a-raspberry-pi-security-camera-with-opencv/
+
+
