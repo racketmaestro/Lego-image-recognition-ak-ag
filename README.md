@@ -2,7 +2,7 @@
 
 This repository contains two main folders of scripts. Firstly, the Computer_files folder contains scripts to create and train an image recognition CNN model for lego technic pieces using Tensorflow (we trained it on Google colab). Secondly, the RPI_files folder contains scripts and files needed for motion detection using picamera live feed, that when deployed together with the converted TensorflowLite model, is able to classify lego pieces in realtime.
 
-The database contains a small sample size of images. The models in the models folder were trained with 6000 images spanning across 7 possible categories of lego technic. It achieved 93% testing accuracy from an 80/20 split between training and testing data. Graphs of the accuracy and loss during the training period are shown below. A confusion matrix was also plotted as shown.
+The database contains a small sample size of images. The models in the models folder were trained with 6000 images spanning across 7 possible categories of lego technic. It achieved 93% testing accuracy from an 80/20 split between training and testing data. Graphs of the accuracy and loss across epochs are shown below. A confusion matrix was also plotted to visualize the performance of the classification algorithm. It depicts the count value of true versus false predictions across each category.
 
 ![Unknown-4](https://user-images.githubusercontent.com/91732309/190349741-e3152b15-662a-4ad3-81af-c376dca57012.png)
 
