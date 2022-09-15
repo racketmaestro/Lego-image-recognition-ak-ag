@@ -14,6 +14,8 @@
 # The input tensor will be passed into the interpretor (a tensorflow lite model) which will output a probability vector.
 # The vector index of the highest probability class will be extracted to output the most likely class of the lego piece.
 
+# This script can be modified to take the images required for the database. The motionCounter can be decreased to take more images.
+
 from picamera.array import PiRGBArray
 from picamera import PiCamera
 import argparse
