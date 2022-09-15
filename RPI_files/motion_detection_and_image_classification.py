@@ -12,7 +12,7 @@
 # If successive frames of motion is detected by the picamera, the boundary box will be extracted and image saved to a
 # pre-specified folder in the RPI. The image contrast will be increased, and resized before being converted into an input tensor.
 # The input tensor will be passed into the interpretor (a tensorflow lite model) which will output a probability vector.
-# The vector index of the highest probability class will be extracted to output the most likely class of the lego piece.
+# The vector index of the highest probability will be extracted to output the most likely class of the lego piece.
 
 # This script can be modified to take the images required for the database. The motionCounter can be decreased to take more images.
 
