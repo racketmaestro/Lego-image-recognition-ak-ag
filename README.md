@@ -6,6 +6,7 @@ The database contains a small sample size of images. The models in the models fo
 
 ![Unknown-4](https://user-images.githubusercontent.com/91732309/190349741-e3152b15-662a-4ad3-81af-c376dca57012.png)
 
+![Unknown-3](https://user-images.githubusercontent.com/91732309/190349811-04a60457-500a-4449-b3a8-bf473aa51bec.png)
 
 More images can be taken by editing the motion_detection_and_image_classification.py script.
 
