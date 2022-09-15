@@ -1,1 +1,2 @@
-# Lego-image-recognition-ak-ag
+# Lego motion detection and image classification
+
