@@ -11,7 +11,7 @@ More images can be taken by editing the motion_detection_and_image_classificatio
 The motion detection portion of the RaspberryPi script was adapted from pyimagesearch's project 'Building a Raspberry Pi security camera with OpenCV' and can be found at
 https://pyimagesearch.com/2019/03/25/building-a-raspberry-pi-security-camera-with-opencv/
 
-Depicted below are 2 examples of lego pieces being classified by the model, through the RaspberryPi's Picamera livestream. When motion counter exceeds 8 consequtive frames, bounding box is extracted and run through model, almost instantaneously outputting the class of lego.
+Depicted below are 2 examples of lego pieces being classified by the model, through the RaspberryPi's Picamera livestream. When motion counter exceeds 8 consequtive frames, bounding box is extracted and run through model, almost instantaneously outputting the class of lego. Image counter increases by 1 while motion counter is reset back to zero.
 
 
 ![](https://github.com/racketmaestro/Lego-motion-detection-and-image-recognition-ak-ag/blob/main/misc/lego_classification_1.gif)
