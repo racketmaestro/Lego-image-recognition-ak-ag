@@ -16,4 +16,4 @@ Depicted below are 2 examples of lego pieces being classified by the model, thro
 
 ![](https://github.com/racketmaestro/Lego-motion-detection-and-image-recognition-ak-ag/blob/main/misc/lego_classification_1.gif)
 
-![](https://github.com/racketmaestro/Lego-motion-detection-and-image-recognition-ak-ag/blob/main/misc/lego_classificationi_2.gif)
+![](https://github.com/racketmaestro/Lego-motion-detection-and-image-recognition-ak-ag/blob/main/misc/lego_classification_2.gif)
