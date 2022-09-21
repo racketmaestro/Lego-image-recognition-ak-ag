@@ -11,4 +11,6 @@ More images can be taken by editing the motion_detection_and_image_classificatio
 The motion detection portion of the RaspberryPi script was adapted from pyimagesearch's project 'Building a Raspberry Pi security camera with OpenCV' and can be found at
 https://pyimagesearch.com/2019/03/25/building-a-raspberry-pi-security-camera-with-opencv/
 
+![](https://github.com/racketmaestro/Lego-motion-detection-and-image-recognition-ak-ag/blob/main/misc/lego_classification_1.gif)
 
+![](https://github.com/racketmaestro/Lego-motion-detection-and-image-recognition-ak-ag/blob/main/misc/lego_classificationi_2.gif)
